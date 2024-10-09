@@ -14,10 +14,10 @@ export default function Home() {
           priority
         />
         <ol>
+          <li>Projeto NextJS do BNB</li>
           <li>
-            Get started by editing <code>app/page.tsx</code>.
+            Testando deploy na Vercel
           </li>
-          <li>Save and see your changes instantly.</li>
         </ol>
 
         <div className={styles.ctas}>
